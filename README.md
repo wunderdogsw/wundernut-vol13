@@ -8,7 +8,7 @@ A hero is lost in a maze inhabited by an angry dragon. Can you help the hero fin
 
 ## Instructions & requirements
 
-Create a solution that outputs an answer to what is the shortest path for the hero to get to the end of the maze while avoiding the dragon moving toward the hero. The maze is represented as a matrix of emojis. The maze is given as an input and can have different layouts, sizes, and starting positions.
+Create a solution that outputs an answer to how long is the shortest path for the hero to get to the end of the maze while avoiding the dragon moving toward the hero. The maze is represented as a matrix of emojis. The maze is given as an input and can have different layouts, sizes, and starting positions.
 
 ### Maze cells:
 * 🏃 is the hero starting position
@@ -61,6 +61,8 @@ Create a solution that outputs an answer to what is the shortest path for the he
 ]
 ```
 
+Example output: _The shortest path is 16 steps._
+
 ### Example maze 2:
 ```
 🟫🟫🟫🟫🟩🟩🏃🟫🟫🟩🟩🟩
@@ -98,7 +100,7 @@ Create a solution that outputs an answer to what is the shortest path for the he
 * Use [submission form](https://www.wunderdog.fi/wundernut) to submit your contribution.
 * You can either submit a traditional solution or a solution where AI prompts have been used
 * The submission must include full source code and instructions to compile and run the program.
-* If you have used AI prompts, include the prompts into the submission
+* If you have used AI prompts, include the prompts in the submission. Please also let us know which chatbot or AI pair programmer you used.
 * All submissions will be reviewed by a jury consisting of Wunderdog developers.
 * Criterios to be selected as winners:
   * Code quality metrics (https://blog.cloudboost.io/code-quality-metrics-67dc861ac139)
